@@ -980,7 +980,23 @@ html {
   scroll-behavior: smooth;
 }
 
+/* Fix Safari subpixel rendering causing thin vertical lines */
+.navbar-logo img {
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  -webkit-appearance: none;
+  image-rendering: -webkit-optimize-contrast;
+  background-clip: padding-box;
+  border-radius: 0 !important;
+}
 
+/* Prevent iOS Safari from adding default tap or highlight color */
+.navbar-logo a,
+.navbar a {
+  -webkit-tap-highlight-color: transparent;
+}
 body {
   font-family: 'Montserrat', sans-serif;
 }
