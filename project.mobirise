@@ -439,6 +439,11 @@
               "min-width": "170px"
             },
             "@media (max-width: 806px)": {
+              ".navbar-brand": {
+                "padding-right": "0px !important"
+              }
+            },
+            "@media (max-width: 586px)": {
               ".navbar-logo": {
                 "img": {
                   "height": "auto",
@@ -2736,6 +2741,11 @@
               "min-width": "170px"
             },
             "@media (max-width: 806px)": {
+              ".navbar-brand": {
+                "padding-right": "0px !important"
+              }
+            },
+            "@media (max-width: 586px)": {
               ".navbar-logo": {
                 "img": {
                   "height": "auto",
@@ -3873,6 +3883,11 @@
               "min-width": "170px"
             },
             "@media (max-width: 806px)": {
+              ".navbar-brand": {
+                "padding-right": "0px !important"
+              }
+            },
+            "@media (max-width: 586px)": {
               ".navbar-logo": {
                 "img": {
                   "height": "auto",
@@ -4668,6 +4683,11 @@
               "min-width": "170px"
             },
             "@media (max-width: 806px)": {
+              ".navbar-brand": {
+                "padding-right": "0px !important"
+              }
+            },
+            "@media (max-width: 586px)": {
               ".navbar-logo": {
                 "img": {
                   "height": "auto",
@@ -5478,6 +5498,11 @@
               "min-width": "170px"
             },
             "@media (max-width: 806px)": {
+              ".navbar-brand": {
+                "padding-right": "0px !important"
+              }
+            },
+            "@media (max-width: 586px)": {
               ".navbar-logo": {
                 "img": {
                   "height": "auto",
@@ -6625,6 +6650,11 @@
               "min-width": "170px"
             },
             "@media (max-width: 806px)": {
+              ".navbar-brand": {
+                "padding-right": "0px !important"
+              }
+            },
+            "@media (max-width: 586px)": {
               ".navbar-logo": {
                 "img": {
                   "height": "auto",
@@ -7502,6 +7532,11 @@
               "min-width": "170px"
             },
             "@media (max-width: 806px)": {
+              ".navbar-brand": {
+                "padding-right": "0px !important"
+              }
+            },
+            "@media (max-width: 586px)": {
               ".navbar-logo": {
                 "img": {
                   "height": "auto",
@@ -8482,6 +8517,11 @@
               "min-width": "170px"
             },
             "@media (max-width: 806px)": {
+              ".navbar-brand": {
+                "padding-right": "0px !important"
+              }
+            },
+            "@media (max-width: 586px)": {
               ".navbar-logo": {
                 "img": {
                   "height": "auto",
@@ -10031,6 +10071,11 @@
               "min-width": "170px"
             },
             "@media (max-width: 806px)": {
+              ".navbar-brand": {
+                "padding-right": "0px !important"
+              }
+            },
+            "@media (max-width: 586px)": {
               ".navbar-logo": {
                 "img": {
                   "height": "auto",
@@ -10942,6 +10987,11 @@
               "min-width": "170px"
             },
             "@media (max-width: 806px)": {
+              ".navbar-brand": {
+                "padding-right": "0px !important"
+              }
+            },
+            "@media (max-width: 586px)": {
               ".navbar-logo": {
                 "img": {
                   "height": "auto",
@@ -11855,6 +11905,11 @@
               "min-width": "170px"
             },
             "@media (max-width: 806px)": {
+              ".navbar-brand": {
+                "padding-right": "0px !important"
+              }
+            },
+            "@media (max-width: 586px)": {
               ".navbar-logo": {
                 "img": {
                   "height": "auto",
@@ -12799,6 +12854,11 @@
               "min-width": "170px"
             },
             "@media (max-width: 806px)": {
+              ".navbar-brand": {
+                "padding-right": "0px !important"
+              }
+            },
+            "@media (max-width: 586px)": {
               ".navbar-logo": {
                 "img": {
                   "height": "auto",
