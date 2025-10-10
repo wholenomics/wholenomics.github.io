@@ -144,7 +144,7 @@
               }
             },
             ".dropdown-item:before": {
-              "font-family": "Moririse2 !important",
+              "font-family": "Monsterrat !important",
               "content": "\"\\e966\"",
               "display": "inline-block",
               "width": "0",
@@ -445,6 +445,10 @@
             },
             "@media (max-width: 586px)": {
               ".navbar-logo": {
+                "margin-left": "0px !important",
+                "margin-right": "0px !important",
+                "padding-right": "0px !important",
+                "padding-left": "0px !important",
                 "img": {
                   "height": "auto",
                   "max-height": "2.5rem !important",
@@ -2448,7 +2452,7 @@
               }
             },
             ".dropdown-item:before": {
-              "font-family": "Moririse2 !important",
+              "font-family": "Monsterrat !important",
               "content": "\"\\e966\"",
               "display": "inline-block",
               "width": "0",
@@ -2749,6 +2753,10 @@
             },
             "@media (max-width: 586px)": {
               ".navbar-logo": {
+                "margin-left": "0px !important",
+                "margin-right": "0px !important",
+                "padding-right": "0px !important",
+                "padding-left": "0px !important",
                 "img": {
                   "height": "auto",
                   "max-height": "2.5rem !important",
@@ -3592,7 +3600,7 @@
               }
             },
             ".dropdown-item:before": {
-              "font-family": "Moririse2 !important",
+              "font-family": "Monsterrat !important",
               "content": "\"\\e966\"",
               "display": "inline-block",
               "width": "0",
@@ -3893,6 +3901,10 @@
             },
             "@media (max-width: 586px)": {
               ".navbar-logo": {
+                "margin-left": "0px !important",
+                "margin-right": "0px !important",
+                "padding-right": "0px !important",
+                "padding-left": "0px !important",
                 "img": {
                   "height": "auto",
                   "max-height": "2.5rem !important",
@@ -4394,7 +4406,7 @@
               }
             },
             ".dropdown-item:before": {
-              "font-family": "Moririse2 !important",
+              "font-family": "Monsterrat !important",
               "content": "\"\\e966\"",
               "display": "inline-block",
               "width": "0",
@@ -4695,6 +4707,10 @@
             },
             "@media (max-width: 586px)": {
               ".navbar-logo": {
+                "margin-left": "0px !important",
+                "margin-right": "0px !important",
+                "padding-right": "0px !important",
+                "padding-left": "0px !important",
                 "img": {
                   "height": "auto",
                   "max-height": "2.5rem !important",
@@ -5211,7 +5227,7 @@
               }
             },
             ".dropdown-item:before": {
-              "font-family": "Moririse2 !important",
+              "font-family": "Monsterrat !important",
               "content": "\"\\e966\"",
               "display": "inline-block",
               "width": "0",
@@ -5512,6 +5528,10 @@
             },
             "@media (max-width: 586px)": {
               ".navbar-logo": {
+                "margin-left": "0px !important",
+                "margin-right": "0px !important",
+                "padding-right": "0px !important",
+                "padding-left": "0px !important",
                 "img": {
                   "height": "auto",
                   "max-height": "2.5rem !important",
@@ -6365,7 +6385,7 @@
               }
             },
             ".dropdown-item:before": {
-              "font-family": "Moririse2 !important",
+              "font-family": "Monsterrat !important",
               "content": "\"\\e966\"",
               "display": "inline-block",
               "width": "0",
@@ -6666,6 +6686,10 @@
             },
             "@media (max-width: 586px)": {
               ".navbar-logo": {
+                "margin-left": "0px !important",
+                "margin-right": "0px !important",
+                "padding-right": "0px !important",
+                "padding-left": "0px !important",
                 "img": {
                   "height": "auto",
                   "max-height": "2.5rem !important",
@@ -7249,7 +7273,7 @@
               }
             },
             ".dropdown-item:before": {
-              "font-family": "Moririse2 !important",
+              "font-family": "Monsterrat !important",
               "content": "\"\\e966\"",
               "display": "inline-block",
               "width": "0",
@@ -7550,6 +7574,10 @@
             },
             "@media (max-width: 586px)": {
               ".navbar-logo": {
+                "margin-left": "0px !important",
+                "margin-right": "0px !important",
+                "padding-right": "0px !important",
+                "padding-left": "0px !important",
                 "img": {
                   "height": "auto",
                   "max-height": "2.5rem !important",
@@ -8236,7 +8264,7 @@
               }
             },
             ".dropdown-item:before": {
-              "font-family": "Moririse2 !important",
+              "font-family": "Monsterrat !important",
               "content": "\"\\e966\"",
               "display": "inline-block",
               "width": "0",
@@ -8537,6 +8565,10 @@
             },
             "@media (max-width: 586px)": {
               ".navbar-logo": {
+                "margin-left": "0px !important",
+                "margin-right": "0px !important",
+                "padding-right": "0px !important",
+                "padding-left": "0px !important",
                 "img": {
                   "height": "auto",
                   "max-height": "2.5rem !important",
@@ -9792,7 +9824,7 @@
               }
             },
             ".dropdown-item:before": {
-              "font-family": "Moririse2 !important",
+              "font-family": "Monsterrat !important",
               "content": "\"\\e966\"",
               "display": "inline-block",
               "width": "0",
@@ -10093,6 +10125,10 @@
             },
             "@media (max-width: 586px)": {
               ".navbar-logo": {
+                "margin-left": "0px !important",
+                "margin-right": "0px !important",
+                "padding-right": "0px !important",
+                "padding-left": "0px !important",
                 "img": {
                   "height": "auto",
                   "max-height": "2.5rem !important",
@@ -10710,7 +10746,7 @@
               }
             },
             ".dropdown-item:before": {
-              "font-family": "Moririse2 !important",
+              "font-family": "Monsterrat !important",
               "content": "\"\\e966\"",
               "display": "inline-block",
               "width": "0",
@@ -11011,6 +11047,10 @@
             },
             "@media (max-width: 586px)": {
               ".navbar-logo": {
+                "margin-left": "0px !important",
+                "margin-right": "0px !important",
+                "padding-right": "0px !important",
+                "padding-left": "0px !important",
                 "img": {
                   "height": "auto",
                   "max-height": "2.5rem !important",
@@ -11630,7 +11670,7 @@
               }
             },
             ".dropdown-item:before": {
-              "font-family": "Moririse2 !important",
+              "font-family": "Monsterrat !important",
               "content": "\"\\e966\"",
               "display": "inline-block",
               "width": "0",
@@ -11931,6 +11971,10 @@
             },
             "@media (max-width: 586px)": {
               ".navbar-logo": {
+                "margin-left": "0px !important",
+                "margin-right": "0px !important",
+                "padding-right": "0px !important",
+                "padding-left": "0px !important",
                 "img": {
                   "height": "auto",
                   "max-height": "2.5rem !important",
@@ -12582,7 +12626,7 @@
               }
             },
             ".dropdown-item:before": {
-              "font-family": "Moririse2 !important",
+              "font-family": "Monsterrat !important",
               "content": "\"\\e966\"",
               "display": "inline-block",
               "width": "0",
@@ -12883,6 +12927,10 @@
             },
             "@media (max-width: 586px)": {
               ".navbar-logo": {
+                "margin-left": "0px !important",
+                "margin-right": "0px !important",
+                "padding-right": "0px !important",
+                "padding-left": "0px !important",
                 "img": {
                   "height": "auto",
                   "max-height": "2.5rem !important",
