@@ -978,7 +978,14 @@ blockquote {
 /* Make scrolling smooth */
 html {
   scroll-behavior: smooth;
-}body {
+}
+
+html, body {
+  -webkit-text-size-adjust: 100%;
+  -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
+}
+body {
   font-family: 'Montserrat', sans-serif;
 }
 .display-1 {
