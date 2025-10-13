@@ -24,7 +24,7 @@
   <link rel="stylesheet" href="assets/socicon/css/styles.css">
   <link rel="preload" href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
   <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i&display=swap"></noscript>
-  <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css?v=9sWHMM"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css?v=9sWHMM" type="text/css">
+  <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css?v=q9s94s"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css?v=q9s94s" type="text/css">
 
   
   
@@ -726,6 +726,31 @@
 @media (max-width: 576px) {
   .cid-uXvrkq4FmY {
     padding-top: 0 !important;
+  }
+}
+
+/* --- iPhone-only navbar spacing and logo fix --- */
+@supports (-webkit-touch-callout: none) {
+  /* Remove the iPhone safe-area gap */
+  body {
+    padding: 0 !important;
+  }
+
+  /* Reset navbar positioning issues */
+  .menu .navbar,
+  .menu .navbar .container-fluid {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+  }
+
+  /* Fix logo baseline gap */
+  .menu .navbar-logo img {
+    display: block !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    height: auto !important;
+    background: transparent !important;
+    vertical-align: middle !important;
   }
 }
 </style>

@@ -114,7 +114,7 @@
         "title": "Homepage",
         "meta_descr": "",
         "header_custom": "<link href=\"https://assets.calendly.com/assets/external/widget.css\" rel=\"stylesheet\">\n<script src=\"https://assets.calendly.com/assets/external/widget.js\" type=\"text/javascript\" async></script>\n\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1, viewport-fit=cover\">",
-        "footer_custom": "<style>\n@media (max-width: 576px) {\n  .cid-uXvrkq4FmY {\n    padding-top: 0 !important;\n  }\n}\n</style>",
+        "footer_custom": "<style>\n@media (max-width: 576px) {\n  .cid-uXvrkq4FmY {\n    padding-top: 0 !important;\n  }\n}\n\n/* --- iPhone-only navbar spacing and logo fix --- */\n@supports (-webkit-touch-callout: none) {\n  /* Remove the iPhone safe-area gap */\n  body {\n    padding: 0 !important;\n  }\n\n  /* Reset navbar positioning issues */\n  .menu .navbar,\n  .menu .navbar .container-fluid {\n    margin-top: 0 !important;\n    padding-top: 0 !important;\n  }\n\n  /* Fix logo baseline gap */\n  .menu .navbar-logo img {\n    display: block !important;\n    margin: 0 !important;\n    padding: 0 !important;\n    height: auto !important;\n    background: transparent !important;\n    vertical-align: middle !important;\n  }\n}\n</style>",
         "html_before": "",
         "socialSharingUrl": ""
       },
@@ -591,9 +591,6 @@
               "mix-blend-mode": "normal !important",
               "isolation": "isolate !important",
               "-webkit-transform": "translateZ(0)"
-            },
-            "body": {
-              "padding": "env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left)"
             }
           },
           "_name": "amenu1",
@@ -2915,9 +2912,6 @@
               "mix-blend-mode": "normal !important",
               "isolation": "isolate !important",
               "-webkit-transform": "translateZ(0)"
-            },
-            "body": {
-              "padding": "env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left)"
             }
           },
           "_name": "amenu1",
@@ -4083,9 +4077,6 @@
               "mix-blend-mode": "normal !important",
               "isolation": "isolate !important",
               "-webkit-transform": "translateZ(0)"
-            },
-            "body": {
-              "padding": "env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left)"
             }
           },
           "_name": "amenu1",
@@ -4904,9 +4895,6 @@
               "mix-blend-mode": "normal !important",
               "isolation": "isolate !important",
               "-webkit-transform": "translateZ(0)"
-            },
-            "body": {
-              "padding": "env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left)"
             }
           },
           "_name": "amenu1",
@@ -5741,9 +5729,6 @@
               "mix-blend-mode": "normal !important",
               "isolation": "isolate !important",
               "-webkit-transform": "translateZ(0)"
-            },
-            "body": {
-              "padding": "env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left)"
             }
           },
           "_name": "amenu1",
@@ -6916,9 +6901,6 @@
               "mix-blend-mode": "normal !important",
               "isolation": "isolate !important",
               "-webkit-transform": "translateZ(0)"
-            },
-            "body": {
-              "padding": "env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left)"
             }
           },
           "_name": "amenu1",
@@ -7820,9 +7802,6 @@
               "mix-blend-mode": "normal !important",
               "isolation": "isolate !important",
               "-webkit-transform": "translateZ(0)"
-            },
-            "body": {
-              "padding": "env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left)"
             }
           },
           "_name": "amenu1",
@@ -8826,9 +8805,6 @@
               "mix-blend-mode": "normal !important",
               "isolation": "isolate !important",
               "-webkit-transform": "translateZ(0)"
-            },
-            "body": {
-              "padding": "env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left)"
             }
           },
           "_name": "amenu1",
@@ -10401,9 +10377,6 @@
               "mix-blend-mode": "normal !important",
               "isolation": "isolate !important",
               "-webkit-transform": "translateZ(0)"
-            },
-            "body": {
-              "padding": "env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left)"
             }
           },
           "_name": "amenu1",
@@ -11338,9 +11311,6 @@
               "mix-blend-mode": "normal !important",
               "isolation": "isolate !important",
               "-webkit-transform": "translateZ(0)"
-            },
-            "body": {
-              "padding": "env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left)"
             }
           },
           "_name": "amenu1",
@@ -12277,9 +12247,6 @@
               "mix-blend-mode": "normal !important",
               "isolation": "isolate !important",
               "-webkit-transform": "translateZ(0)"
-            },
-            "body": {
-              "padding": "env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left)"
             }
           },
           "_name": "amenu1",
@@ -13248,9 +13215,6 @@
               "mix-blend-mode": "normal !important",
               "isolation": "isolate !important",
               "-webkit-transform": "translateZ(0)"
-            },
-            "body": {
-              "padding": "env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left)"
             }
           },
           "_name": "amenu1",
