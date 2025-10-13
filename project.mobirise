@@ -113,7 +113,7 @@
         "main": true,
         "title": "Homepage",
         "meta_descr": "",
-        "header_custom": "<link href=\"https://assets.calendly.com/assets/external/widget.css\" rel=\"stylesheet\">\n<script src=\"https://assets.calendly.com/assets/external/widget.js\" type=\"text/javascript\" async></script>\n\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">",
+        "header_custom": "<link href=\"https://assets.calendly.com/assets/external/widget.css\" rel=\"stylesheet\">\n<script src=\"https://assets.calendly.com/assets/external/widget.js\" type=\"text/javascript\" async></script>\n\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1, viewport-fit=cover\">",
         "footer_custom": "<style>\n@media (max-width: 576px) {\n  .cid-uXvrkq4FmY {\n    padding-top: 0 !important;\n  }\n}\n</style>",
         "html_before": "",
         "socialSharingUrl": ""
