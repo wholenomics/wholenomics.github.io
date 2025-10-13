@@ -580,6 +580,13 @@
                 "padding": "12px 22px",
                 "min-height": "40px"
               }
+            },
+            ".navbar-logo img": {
+              "-webkit-background-clip": "text !important",
+              "background-color": "transparent !important",
+              "mix-blend-mode": "normal !important",
+              "isolation": "isolate !important",
+              "-webkit-transform": "translateZ(0)"
             }
           },
           "_name": "amenu1",
@@ -4044,6 +4051,13 @@
                 "padding": "12px 22px",
                 "min-height": "40px"
               }
+            },
+            ".navbar-logo img": {
+              "-webkit-background-clip": "text !important",
+              "background-color": "transparent !important",
+              "mix-blend-mode": "normal !important",
+              "isolation": "isolate !important",
+              "-webkit-transform": "translateZ(0)"
             }
           },
           "_name": "amenu1",
@@ -4851,6 +4865,13 @@
                 "padding": "12px 22px",
                 "min-height": "40px"
               }
+            },
+            ".navbar-logo img": {
+              "-webkit-background-clip": "text !important",
+              "background-color": "transparent !important",
+              "mix-blend-mode": "normal !important",
+              "isolation": "isolate !important",
+              "-webkit-transform": "translateZ(0)"
             }
           },
           "_name": "amenu1",
@@ -5674,6 +5695,13 @@
                 "padding": "12px 22px",
                 "min-height": "40px"
               }
+            },
+            ".navbar-logo img": {
+              "-webkit-background-clip": "text !important",
+              "background-color": "transparent !important",
+              "mix-blend-mode": "normal !important",
+              "isolation": "isolate !important",
+              "-webkit-transform": "translateZ(0)"
             }
           },
           "_name": "amenu1",
@@ -6835,6 +6863,13 @@
                 "padding": "12px 22px",
                 "min-height": "40px"
               }
+            },
+            ".navbar-logo img": {
+              "-webkit-background-clip": "text !important",
+              "background-color": "transparent !important",
+              "mix-blend-mode": "normal !important",
+              "isolation": "isolate !important",
+              "-webkit-transform": "translateZ(0)"
             }
           },
           "_name": "amenu1",
@@ -7725,6 +7760,13 @@
                 "padding": "12px 22px",
                 "min-height": "40px"
               }
+            },
+            ".navbar-logo img": {
+              "-webkit-background-clip": "text !important",
+              "background-color": "transparent !important",
+              "mix-blend-mode": "normal !important",
+              "isolation": "isolate !important",
+              "-webkit-transform": "translateZ(0)"
             }
           },
           "_name": "amenu1",
@@ -8717,6 +8759,13 @@
                 "padding": "12px 22px",
                 "min-height": "40px"
               }
+            },
+            ".navbar-logo img": {
+              "-webkit-background-clip": "text !important",
+              "background-color": "transparent !important",
+              "mix-blend-mode": "normal !important",
+              "isolation": "isolate !important",
+              "-webkit-transform": "translateZ(0)"
             }
           },
           "_name": "amenu1",
@@ -10278,6 +10327,13 @@
                 "padding": "12px 22px",
                 "min-height": "40px"
               }
+            },
+            ".navbar-logo img": {
+              "-webkit-background-clip": "text !important",
+              "background-color": "transparent !important",
+              "mix-blend-mode": "normal !important",
+              "isolation": "isolate !important",
+              "-webkit-transform": "translateZ(0)"
             }
           },
           "_name": "amenu1",
@@ -11201,6 +11257,13 @@
                 "padding": "12px 22px",
                 "min-height": "40px"
               }
+            },
+            ".navbar-logo img": {
+              "-webkit-background-clip": "text !important",
+              "background-color": "transparent !important",
+              "mix-blend-mode": "normal !important",
+              "isolation": "isolate !important",
+              "-webkit-transform": "translateZ(0)"
             }
           },
           "_name": "amenu1",
@@ -12126,6 +12189,13 @@
                 "padding": "12px 22px",
                 "min-height": "40px"
               }
+            },
+            ".navbar-logo img": {
+              "-webkit-background-clip": "text !important",
+              "background-color": "transparent !important",
+              "mix-blend-mode": "normal !important",
+              "isolation": "isolate !important",
+              "-webkit-transform": "translateZ(0)"
             }
           },
           "_name": "amenu1",
@@ -13083,6 +13153,13 @@
                 "padding": "12px 22px",
                 "min-height": "40px"
               }
+            },
+            ".navbar-logo img": {
+              "-webkit-background-clip": "text !important",
+              "background-color": "transparent !important",
+              "mix-blend-mode": "normal !important",
+              "isolation": "isolate !important",
+              "-webkit-transform": "translateZ(0)"
             }
           },
           "_name": "amenu1",
