@@ -2265,6 +2265,14 @@ a:hover {
     width: 177.78vh;
   }
 }
+@media (max-width: 375px) {
+  .cid-uOi9EyQluf .mbr-section-title {
+    font-size: 0.9rem !important;
+  }
+  .cid-uOi9EyQluf .mbr-text {
+    font-size: 0.9rem !important;
+  }
+}
 .cid-uTPsfOWAuL {
   padding-top: 3rem;
   padding-bottom: 3rem;
