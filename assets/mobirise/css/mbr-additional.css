@@ -2155,7 +2155,6 @@ a:hover {
 }
 .cid-uOi9EyQluf .container {
   max-width: 1240px;
-  margin: auto !important;
 }
 @media (max-width: 1199px) {
   .cid-uOi9EyQluf .container {
@@ -2265,7 +2264,15 @@ a:hover {
     width: 177.78vh;
   }
 }
-@media (max-width: 400px) {
+@media (min-width: 400px) and (max-width: 455px) {
+  .cid-uOi9EyQluf .mbr-section-title {
+    font-size: 18px !important;
+  }
+  .cid-uOi9EyQluf .mbr-text {
+    font-size: 18px !important;
+  }
+}
+@media (max-width: 399px) {
   .cid-uOi9EyQluf .mbr-section-title {
     font-size: 0.9rem !important;
   }
@@ -3677,6 +3684,33 @@ a:hover {
     font-size: 12px !important;
   }
 }
+@media (min-width: 1303px) and (max-width: 1500px) {
+  .cid-uXvuAzNiIz .mbr-section-subtitle {
+    font-size: 16px !important;
+  }
+  .cid-uXvuAzNiIz .mbr-text {
+    font-size: 14px !important;
+  }
+}
+@media (min-width: 1241px) and (max-width: 1302px) {
+  .cid-uXvuAzNiIz .mbr-section-subtitle {
+    font-size: 15px !important;
+  }
+  .cid-uXvuAzNiIz .mbr-text {
+    font-size: 13px !important;
+  }
+}
+@media (min-width: 992px) and (max-width: 1240px) {
+  .cid-uXvuAzNiIz .mbr-section-subtitle {
+    font-size: 12.5px !important;
+  }
+  .cid-uXvuAzNiIz .mbr-text {
+    font-size: 11px !important;
+  }
+  .cid-uXvuAzNiIz #aboutWholenomics {
+    padding-right: 0px !important;
+  }
+}
 .cid-uZvkpvB9Qs .navbar-dropdown {
   position: relative !important;
 }
@@ -4617,6 +4651,33 @@ a:hover {
     font-size: 12px !important;
   }
 }
+@media (min-width: 1303px) and (max-width: 1500px) {
+  .cid-uXvuAzNiIz .mbr-section-subtitle {
+    font-size: 16px !important;
+  }
+  .cid-uXvuAzNiIz .mbr-text {
+    font-size: 14px !important;
+  }
+}
+@media (min-width: 1241px) and (max-width: 1302px) {
+  .cid-uXvuAzNiIz .mbr-section-subtitle {
+    font-size: 15px !important;
+  }
+  .cid-uXvuAzNiIz .mbr-text {
+    font-size: 13px !important;
+  }
+}
+@media (min-width: 992px) and (max-width: 1240px) {
+  .cid-uXvuAzNiIz .mbr-section-subtitle {
+    font-size: 12.5px !important;
+  }
+  .cid-uXvuAzNiIz .mbr-text {
+    font-size: 11px !important;
+  }
+  .cid-uXvuAzNiIz #aboutWholenomics {
+    padding-right: 0px !important;
+  }
+}
 .cid-uZvkpvB9Qs .navbar-dropdown {
   position: relative !important;
 }
@@ -5307,6 +5368,33 @@ a:hover {
     font-size: 12px !important;
   }
 }
+@media (min-width: 1303px) and (max-width: 1500px) {
+  .cid-uXvuAzNiIz .mbr-section-subtitle {
+    font-size: 16px !important;
+  }
+  .cid-uXvuAzNiIz .mbr-text {
+    font-size: 14px !important;
+  }
+}
+@media (min-width: 1241px) and (max-width: 1302px) {
+  .cid-uXvuAzNiIz .mbr-section-subtitle {
+    font-size: 15px !important;
+  }
+  .cid-uXvuAzNiIz .mbr-text {
+    font-size: 13px !important;
+  }
+}
+@media (min-width: 992px) and (max-width: 1240px) {
+  .cid-uXvuAzNiIz .mbr-section-subtitle {
+    font-size: 12.5px !important;
+  }
+  .cid-uXvuAzNiIz .mbr-text {
+    font-size: 11px !important;
+  }
+  .cid-uXvuAzNiIz #aboutWholenomics {
+    padding-right: 0px !important;
+  }
+}
 .cid-uZvkpvB9Qs .navbar-dropdown {
   position: relative !important;
 }
@@ -5972,6 +6060,33 @@ a:hover {
   }
   .cid-uXvuAzNiIz .mbr-text {
     font-size: 12px !important;
+  }
+}
+@media (min-width: 1303px) and (max-width: 1500px) {
+  .cid-uXvuAzNiIz .mbr-section-subtitle {
+    font-size: 16px !important;
+  }
+  .cid-uXvuAzNiIz .mbr-text {
+    font-size: 14px !important;
+  }
+}
+@media (min-width: 1241px) and (max-width: 1302px) {
+  .cid-uXvuAzNiIz .mbr-section-subtitle {
+    font-size: 15px !important;
+  }
+  .cid-uXvuAzNiIz .mbr-text {
+    font-size: 13px !important;
+  }
+}
+@media (min-width: 992px) and (max-width: 1240px) {
+  .cid-uXvuAzNiIz .mbr-section-subtitle {
+    font-size: 12.5px !important;
+  }
+  .cid-uXvuAzNiIz .mbr-text {
+    font-size: 11px !important;
+  }
+  .cid-uXvuAzNiIz #aboutWholenomics {
+    padding-right: 0px !important;
   }
 }
 .cid-uZvkpvB9Qs .navbar-dropdown {
@@ -6976,6 +7091,33 @@ a:hover {
     font-size: 12px !important;
   }
 }
+@media (min-width: 1303px) and (max-width: 1500px) {
+  .cid-uXvuAzNiIz .mbr-section-subtitle {
+    font-size: 16px !important;
+  }
+  .cid-uXvuAzNiIz .mbr-text {
+    font-size: 14px !important;
+  }
+}
+@media (min-width: 1241px) and (max-width: 1302px) {
+  .cid-uXvuAzNiIz .mbr-section-subtitle {
+    font-size: 15px !important;
+  }
+  .cid-uXvuAzNiIz .mbr-text {
+    font-size: 13px !important;
+  }
+}
+@media (min-width: 992px) and (max-width: 1240px) {
+  .cid-uXvuAzNiIz .mbr-section-subtitle {
+    font-size: 12.5px !important;
+  }
+  .cid-uXvuAzNiIz .mbr-text {
+    font-size: 11px !important;
+  }
+  .cid-uXvuAzNiIz #aboutWholenomics {
+    padding-right: 0px !important;
+  }
+}
 .cid-uZvkpvB9Qs .navbar-dropdown {
   position: relative !important;
 }
@@ -7688,6 +7830,33 @@ a:hover {
   }
   .cid-uXvuAzNiIz .mbr-text {
     font-size: 12px !important;
+  }
+}
+@media (min-width: 1303px) and (max-width: 1500px) {
+  .cid-uXvuAzNiIz .mbr-section-subtitle {
+    font-size: 16px !important;
+  }
+  .cid-uXvuAzNiIz .mbr-text {
+    font-size: 14px !important;
+  }
+}
+@media (min-width: 1241px) and (max-width: 1302px) {
+  .cid-uXvuAzNiIz .mbr-section-subtitle {
+    font-size: 15px !important;
+  }
+  .cid-uXvuAzNiIz .mbr-text {
+    font-size: 13px !important;
+  }
+}
+@media (min-width: 992px) and (max-width: 1240px) {
+  .cid-uXvuAzNiIz .mbr-section-subtitle {
+    font-size: 12.5px !important;
+  }
+  .cid-uXvuAzNiIz .mbr-text {
+    font-size: 11px !important;
+  }
+  .cid-uXvuAzNiIz #aboutWholenomics {
+    padding-right: 0px !important;
   }
 }
 .cid-uZvkpvB9Qs .navbar-dropdown {
@@ -8491,6 +8660,33 @@ a:hover {
   }
   .cid-uXvuAzNiIz .mbr-text {
     font-size: 12px !important;
+  }
+}
+@media (min-width: 1303px) and (max-width: 1500px) {
+  .cid-uXvuAzNiIz .mbr-section-subtitle {
+    font-size: 16px !important;
+  }
+  .cid-uXvuAzNiIz .mbr-text {
+    font-size: 14px !important;
+  }
+}
+@media (min-width: 1241px) and (max-width: 1302px) {
+  .cid-uXvuAzNiIz .mbr-section-subtitle {
+    font-size: 15px !important;
+  }
+  .cid-uXvuAzNiIz .mbr-text {
+    font-size: 13px !important;
+  }
+}
+@media (min-width: 992px) and (max-width: 1240px) {
+  .cid-uXvuAzNiIz .mbr-section-subtitle {
+    font-size: 12.5px !important;
+  }
+  .cid-uXvuAzNiIz .mbr-text {
+    font-size: 11px !important;
+  }
+  .cid-uXvuAzNiIz #aboutWholenomics {
+    padding-right: 0px !important;
   }
 }
 .cid-uZvkpvB9Qs .navbar-dropdown {
@@ -9816,6 +10012,33 @@ a:hover {
     font-size: 12px !important;
   }
 }
+@media (min-width: 1303px) and (max-width: 1500px) {
+  .cid-uXvuAzNiIz .mbr-section-subtitle {
+    font-size: 16px !important;
+  }
+  .cid-uXvuAzNiIz .mbr-text {
+    font-size: 14px !important;
+  }
+}
+@media (min-width: 1241px) and (max-width: 1302px) {
+  .cid-uXvuAzNiIz .mbr-section-subtitle {
+    font-size: 15px !important;
+  }
+  .cid-uXvuAzNiIz .mbr-text {
+    font-size: 13px !important;
+  }
+}
+@media (min-width: 992px) and (max-width: 1240px) {
+  .cid-uXvuAzNiIz .mbr-section-subtitle {
+    font-size: 12.5px !important;
+  }
+  .cid-uXvuAzNiIz .mbr-text {
+    font-size: 11px !important;
+  }
+  .cid-uXvuAzNiIz #aboutWholenomics {
+    padding-right: 0px !important;
+  }
+}
 .cid-uZvkpvB9Qs .navbar-dropdown {
   position: relative !important;
 }
@@ -10604,6 +10827,33 @@ a:hover {
     font-size: 12px !important;
   }
 }
+@media (min-width: 1303px) and (max-width: 1500px) {
+  .cid-uXvuAzNiIz .mbr-section-subtitle {
+    font-size: 16px !important;
+  }
+  .cid-uXvuAzNiIz .mbr-text {
+    font-size: 14px !important;
+  }
+}
+@media (min-width: 1241px) and (max-width: 1302px) {
+  .cid-uXvuAzNiIz .mbr-section-subtitle {
+    font-size: 15px !important;
+  }
+  .cid-uXvuAzNiIz .mbr-text {
+    font-size: 13px !important;
+  }
+}
+@media (min-width: 992px) and (max-width: 1240px) {
+  .cid-uXvuAzNiIz .mbr-section-subtitle {
+    font-size: 12.5px !important;
+  }
+  .cid-uXvuAzNiIz .mbr-text {
+    font-size: 11px !important;
+  }
+  .cid-uXvuAzNiIz #aboutWholenomics {
+    padding-right: 0px !important;
+  }
+}
 .cid-uZvkpvB9Qs .navbar-dropdown {
   position: relative !important;
 }
@@ -11387,6 +11637,33 @@ a:hover {
   }
   .cid-uXvuAzNiIz .mbr-text {
     font-size: 12px !important;
+  }
+}
+@media (min-width: 1303px) and (max-width: 1500px) {
+  .cid-uXvuAzNiIz .mbr-section-subtitle {
+    font-size: 16px !important;
+  }
+  .cid-uXvuAzNiIz .mbr-text {
+    font-size: 14px !important;
+  }
+}
+@media (min-width: 1241px) and (max-width: 1302px) {
+  .cid-uXvuAzNiIz .mbr-section-subtitle {
+    font-size: 15px !important;
+  }
+  .cid-uXvuAzNiIz .mbr-text {
+    font-size: 13px !important;
+  }
+}
+@media (min-width: 992px) and (max-width: 1240px) {
+  .cid-uXvuAzNiIz .mbr-section-subtitle {
+    font-size: 12.5px !important;
+  }
+  .cid-uXvuAzNiIz .mbr-text {
+    font-size: 11px !important;
+  }
+  .cid-uXvuAzNiIz #aboutWholenomics {
+    padding-right: 0px !important;
   }
 }
 .cid-uZvkpvB9Qs .navbar-dropdown {
@@ -12196,6 +12473,33 @@ a:hover {
     font-size: 12px !important;
   }
 }
+@media (min-width: 1303px) and (max-width: 1500px) {
+  .cid-uXvuAzNiIz .mbr-section-subtitle {
+    font-size: 16px !important;
+  }
+  .cid-uXvuAzNiIz .mbr-text {
+    font-size: 14px !important;
+  }
+}
+@media (min-width: 1241px) and (max-width: 1302px) {
+  .cid-uXvuAzNiIz .mbr-section-subtitle {
+    font-size: 15px !important;
+  }
+  .cid-uXvuAzNiIz .mbr-text {
+    font-size: 13px !important;
+  }
+}
+@media (min-width: 992px) and (max-width: 1240px) {
+  .cid-uXvuAzNiIz .mbr-section-subtitle {
+    font-size: 12.5px !important;
+  }
+  .cid-uXvuAzNiIz .mbr-text {
+    font-size: 11px !important;
+  }
+  .cid-uXvuAzNiIz #aboutWholenomics {
+    padding-right: 0px !important;
+  }
+}
 .cid-uZvkpvB9Qs .navbar-dropdown {
   position: relative !important;
 }
@@ -12946,5 +13250,32 @@ a:hover {
   }
   .cid-uXvuAzNiIz .mbr-text {
     font-size: 12px !important;
+  }
+}
+@media (min-width: 1303px) and (max-width: 1500px) {
+  .cid-uXvuAzNiIz .mbr-section-subtitle {
+    font-size: 16px !important;
+  }
+  .cid-uXvuAzNiIz .mbr-text {
+    font-size: 14px !important;
+  }
+}
+@media (min-width: 1241px) and (max-width: 1302px) {
+  .cid-uXvuAzNiIz .mbr-section-subtitle {
+    font-size: 15px !important;
+  }
+  .cid-uXvuAzNiIz .mbr-text {
+    font-size: 13px !important;
+  }
+}
+@media (min-width: 992px) and (max-width: 1240px) {
+  .cid-uXvuAzNiIz .mbr-section-subtitle {
+    font-size: 12.5px !important;
+  }
+  .cid-uXvuAzNiIz .mbr-text {
+    font-size: 11px !important;
+  }
+  .cid-uXvuAzNiIz #aboutWholenomics {
+    padding-right: 0px !important;
   }
 }
